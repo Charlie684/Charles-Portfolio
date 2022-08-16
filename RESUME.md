@@ -14,3 +14,5 @@
 - French Club
 
 ## Hobbies
+- Playing Cello
+- Gaming with friends
