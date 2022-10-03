@@ -16,3 +16,8 @@
 ## Hobbies
 - Playing Cello
 - Gaming with friends
+
+## Typing 
+- Keys Learnt
+  - J, F, and Space
+  - U, R, and K
