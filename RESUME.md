@@ -23,5 +23,4 @@
   - U, R, and K
   - D, E, and I
 
-- Average WPM
-  - 37 words per minute
+- Average WPM of 37
