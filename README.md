@@ -1,5 +1,5 @@
 # Charles-Portfolio
-Hi, my name is Charles Blackwell and this is my portfoilo for my Intro to Software Tech at [McIntosh High School](https://www.fcboe.org/mhs). Along with this course I'm taking AP statisitcs which is very hard.
+Hi, my name is Charles Blackwell and this is my portfoilo for my Intro to Software Tech at [McIntosh High School](https://www.fcboe.org/mhs). I'm currently deciding what AP's to take.
 
 ## Contents
 - [Resume](RESUME.md)
